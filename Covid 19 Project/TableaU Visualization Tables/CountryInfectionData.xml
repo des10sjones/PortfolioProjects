@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Location</Data></Cell>
+			<Cell><Data ss:Type="String">Population</Data></Cell>
+			<Cell><Data ss:Type="String">HighestInfectionCount</Data></Cell>
+			<Cell><Data ss:Type="String">PercentPopulationInfected</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Andorra</Data></Cell>
+			<Cell><Data ss:Type="Number">77265</Data></Cell>
+			<Cell><Data ss:Type="Number">13232</Data></Cell>
+			<Cell><Data ss:Type="Number">17.125477253607713</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Montenegro</Data></Cell>
+			<Cell><Data ss:Type="Number">628062</Data></Cell>
+			<Cell><Data ss:Type="Number">97389</Data></Cell>
+			<Cell><Data ss:Type="Number">15.506271673815641</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Czechia</Data></Cell>
+			<Cell><Data ss:Type="Number">10708982</Data></Cell>
+			<Cell><Data ss:Type="Number">1630758</Data></Cell>
+			<Cell><Data ss:Type="Number">15.22794603632726</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">San Marino</Data></Cell>
+			<Cell><Data ss:Type="Number">33938</Data></Cell>
+			<Cell><Data ss:Type="Number">5066</Data></Cell>
+			<Cell><Data ss:Type="Number">14.92722022511639</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Slovenia</Data></Cell>
+			<Cell><Data ss:Type="Number">2078932</Data></Cell>
+			<Cell><Data ss:Type="Number">240292</Data></Cell>
+			<Cell><Data ss:Type="Number">11.558434811720634</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+			<Cell><Data ss:Type="Number">625976</Data></Cell>
+			<Cell><Data ss:Type="Number">67205</Data></Cell>
+			<Cell><Data ss:Type="Number">10.736034608355592</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Bahrain</Data></Cell>
+			<Cell><Data ss:Type="Number">1701583</Data></Cell>
+			<Cell><Data ss:Type="Number">176934</Data></Cell>
+			<Cell><Data ss:Type="Number">10.398199793956568</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Serbia</Data></Cell>
+			<Cell><Data ss:Type="Number">6804596</Data></Cell>
+			<Cell><Data ss:Type="Number">689557</Data></Cell>
+			<Cell><Data ss:Type="Number">10.133694932072382</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">United States</Data></Cell>
+			<Cell><Data ss:Type="Number">331002647</Data></Cell>
+			<Cell><Data ss:Type="Number">32346971</Data></Cell>
+			<Cell><Data ss:Type="Number">9.772420641699581</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Israel</Data></Cell>
+			<Cell><Data ss:Type="Number">8655541</Data></Cell>
+			<Cell><Data ss:Type="Number">838481</Data></Cell>
+			<Cell><Data ss:Type="Number">9.687216547180586</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sweden</Data></Cell>
+			<Cell><Data ss:Type="Number">10099270</Data></Cell>
+			<Cell><Data ss:Type="Number">973604</Data></Cell>
+			<Cell><Data ss:Type="Number">9.640340341430619</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Estonia</Data></Cell>
+			<Cell><Data ss:Type="Number">1326539</Data></Cell>
+			<Cell><Data ss:Type="Number">122019</Data></Cell>
+			<Cell><Data ss:Type="Number">9.198297223074482</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Lithuania</Data></Cell>
+			<Cell><Data ss:Type="Number">2722291</Data></Cell>
+			<Cell><Data ss:Type="Number">247269</Data></Cell>
+			<Cell><Data ss:Type="Number">9.083121532562096</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Netherlands</Data></Cell>
+			<Cell><Data ss:Type="Number">17134873</Data></Cell>
+			<Cell><Data ss:Type="Number">1522973</Data></Cell>
+			<Cell><Data ss:Type="Number">8.888148747878084</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Belgium</Data></Cell>
+			<Cell><Data ss:Type="Number">11589616</Data></Cell>
+			<Cell><Data ss:Type="Number">990229</Data></Cell>
+			<Cell><Data ss:Type="Number">8.544105343956176</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Panama</Data></Cell>
+			<Cell><Data ss:Type="Number">4314768</Data></Cell>
+			<Cell><Data ss:Type="Number">364576</Data></Cell>
+			<Cell><Data ss:Type="Number">8.449492533549892</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">68147687</Data></Cell>
+			<Cell><Data ss:Type="Number">5677835</Data></Cell>
+			<Cell><Data ss:Type="Number">8.33166208561121</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Portugal</Data></Cell>
+			<Cell><Data ss:Type="Number">10196707</Data></Cell>
+			<Cell><Data ss:Type="Number">836493</Data></Cell>
+			<Cell><Data ss:Type="Number">8.203560227826493</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Croatia</Data></Cell>
+			<Cell><Data ss:Type="Number">4105268</Data></Cell>
+			<Cell><Data ss:Type="Number">332183</Data></Cell>
+			<Cell><Data ss:Type="Number">8.091627635516122</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Hungary</Data></Cell>
+			<Cell><Data ss:Type="Number">9660350</Data></Cell>
+			<Cell><Data ss:Type="Number">779348</Data></Cell>
+			<Cell><Data ss:Type="Number">8.067492378640525</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Georgia</Data></Cell>
+			<Cell><Data ss:Type="Number">3989175</Data></Cell>
+			<Cell><Data ss:Type="Number">310310</Data></Cell>
+			<Cell><Data ss:Type="Number">7.778801381237975</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Lebanon</Data></Cell>
+			<Cell><Data ss:Type="Number">6825442</Data></Cell>
+			<Cell><Data ss:Type="Number">526578</Data></Cell>
+			<Cell><Data ss:Type="Number">7.714928937935447</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Liechtenstein</Data></Cell>
+			<Cell><Data ss:Type="Number">38137</Data></Cell>
+			<Cell><Data ss:Type="Number">2926</Data></Cell>
+			<Cell><Data ss:Type="Number">7.672339198154024</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Switzerland</Data></Cell>
+			<Cell><Data ss:Type="Number">8654618</Data></Cell>
+			<Cell><Data ss:Type="Number">659974</Data></Cell>
+			<Cell><Data ss:Type="Number">7.625686078807868</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="Number">46754783</Data></Cell>
+			<Cell><Data ss:Type="Number">3524077</Data></Cell>
+			<Cell><Data ss:Type="Number">7.537361471659487</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cyprus</Data></Cell>
+			<Cell><Data ss:Type="Number">875899</Data></Cell>
+			<Cell><Data ss:Type="Number">65233</Data></Cell>
+			<Cell><Data ss:Type="Number">7.447548176216665</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Poland</Data></Cell>
+			<Cell><Data ss:Type="Number">37846605</Data></Cell>
+			<Cell><Data ss:Type="Number">2792142</Data></Cell>
+			<Cell><Data ss:Type="Number">7.377523030137049</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">North Macedonia</Data></Cell>
+			<Cell><Data ss:Type="Number">2083380</Data></Cell>
+			<Cell><Data ss:Type="Number">152367</Data></Cell>
+			<Cell><Data ss:Type="Number">7.313452178671199</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Armenia</Data></Cell>
+			<Cell><Data ss:Type="Number">2963234</Data></Cell>
+			<Cell><Data ss:Type="Number">216064</Data></Cell>
+			<Cell><Data ss:Type="Number">7.291493010676849</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Qatar</Data></Cell>
+			<Cell><Data ss:Type="Number">2881060</Data></Cell>
+			<Cell><Data ss:Type="Number">205652</Data></Cell>
+			<Cell><Data ss:Type="Number">7.138067239141149</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Slovakia</Data></Cell>
+			<Cell><Data ss:Type="Number">5459643</Data></Cell>
+			<Cell><Data ss:Type="Number">382211</Data></Cell>
+			<Cell><Data ss:Type="Number">7.000659200610736</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jordan</Data></Cell>
+			<Cell><Data ss:Type="Number">10203140</Data></Cell>
+			<Cell><Data ss:Type="Number">711373</Data></Cell>
+			<Cell><Data ss:Type="Number">6.9720987852759055</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">European Union</Data></Cell>
+			<Cell><Data ss:Type="Number">444919060</Data></Cell>
+			<Cell><Data ss:Type="Number">30771214</Data></Cell>
+			<Cell><Data ss:Type="Number">6.916137510494605</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="Number">212559409</Data></Cell>
+			<Cell><Data ss:Type="Number">14659011</Data></Cell>
+			<Cell><Data ss:Type="Number">6.896430070522072</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">9006400</Data></Cell>
+			<Cell><Data ss:Type="Number">618870</Data></Cell>
+			<Cell><Data ss:Type="Number">6.871446971042813</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Malta</Data></Cell>
+			<Cell><Data ss:Type="Number">441539</Data></Cell>
+			<Cell><Data ss:Type="Number">30292</Data></Cell>
+			<Cell><Data ss:Type="Number">6.860549124765876</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">60461828</Data></Cell>
+			<Cell><Data ss:Type="Number">4022653</Data></Cell>
+			<Cell><Data ss:Type="Number">6.653211014394074</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Argentina</Data></Cell>
+			<Cell><Data ss:Type="Number">45195777</Data></Cell>
+			<Cell><Data ss:Type="Number">2977363</Data></Cell>
+			<Cell><Data ss:Type="Number">6.587701766915082</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+			<Cell><Data ss:Type="Number">67886004</Data></Cell>
+			<Cell><Data ss:Type="Number">4432246</Data></Cell>
+			<Cell><Data ss:Type="Number">6.528954038891434</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Kuwait</Data></Cell>
+			<Cell><Data ss:Type="Number">4270563</Data></Cell>
+			<Cell><Data ss:Type="Number">273991</Data></Cell>
+			<Cell><Data ss:Type="Number">6.415805129206617</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">North America</Data></Cell>
+			<Cell><Data ss:Type="Number">592072204</Data></Cell>
+			<Cell><Data ss:Type="Number">37529488</Data></Cell>
+			<Cell><Data ss:Type="Number">6.3386674372573655</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Latvia</Data></Cell>
+			<Cell><Data ss:Type="Number">1886202</Data></Cell>
+			<Cell><Data ss:Type="Number">118558</Data></Cell>
+			<Cell><Data ss:Type="Number">6.285540997199663</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Chile</Data></Cell>
+			<Cell><Data ss:Type="Number">19116209</Data></Cell>
+			<Cell><Data ss:Type="Number">1198245</Data></Cell>
+			<Cell><Data ss:Type="Number">6.2682145816673165</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Monaco</Data></Cell>
+			<Cell><Data ss:Type="Number">39244</Data></Cell>
+			<Cell><Data ss:Type="Number">2454</Data></Cell>
+			<Cell><Data ss:Type="Number">6.253185200285394</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Moldova</Data></Cell>
+			<Cell><Data ss:Type="Number">4033963</Data></Cell>
+			<Cell><Data ss:Type="Number">250837</Data></Cell>
+			<Cell><Data ss:Type="Number">6.218128426066377</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Bosnia and Herzegovina</Data></Cell>
+			<Cell><Data ss:Type="Number">3280815</Data></Cell>
+			<Cell><Data ss:Type="Number">198461</Data></Cell>
+			<Cell><Data ss:Type="Number">6.049137180852928</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Europe</Data></Cell>
+			<Cell><Data ss:Type="Number">748680069</Data></Cell>
+			<Cell><Data ss:Type="Number">44863478</Data></Cell>
+			<Cell><Data ss:Type="Number">5.992343039119958</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Seychelles</Data></Cell>
+			<Cell><Data ss:Type="Number">98340</Data></Cell>
+			<Cell><Data ss:Type="Number">5873</Data></Cell>
+			<Cell><Data ss:Type="Number">5.972137482204596</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+			<Cell><Data ss:Type="Number">6948445</Data></Cell>
+			<Cell><Data ss:Type="Number">404380</Data></Cell>
+			<Cell><Data ss:Type="Number">5.819719376061839</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Palestine</Data></Cell>
+			<Cell><Data ss:Type="Number">5101416</Data></Cell>
+			<Cell><Data ss:Type="Number">296462</Data></Cell>
+			<Cell><Data ss:Type="Number">5.811366883233989</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">South America</Data></Cell>
+			<Cell><Data ss:Type="Number">430759772</Data></Cell>
+			<Cell><Data ss:Type="Number">24878216</Data></Cell>
+			<Cell><Data ss:Type="Number">5.775426958857245</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Turkey</Data></Cell>
+			<Cell><Data ss:Type="Number">84339067</Data></Cell>
+			<Cell><Data ss:Type="Number">4820591</Data></Cell>
+			<Cell><Data ss:Type="Number">5.715727208601916</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Uruguay</Data></Cell>
+			<Cell><Data ss:Type="Number">3473727</Data></Cell>
+			<Cell><Data ss:Type="Number">198428</Data></Cell>
+			<Cell><Data ss:Type="Number">5.71225084757668</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Colombia</Data></Cell>
+			<Cell><Data ss:Type="Number">50882884</Data></Cell>
+			<Cell><Data ss:Type="Number">2859724</Data></Cell>
+			<Cell><Data ss:Type="Number">5.620208162729141</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Maldives</Data></Cell>
+			<Cell><Data ss:Type="Number">540542</Data></Cell>
+			<Cell><Data ss:Type="Number">29835</Data></Cell>
+			<Cell><Data ss:Type="Number">5.519460097457737</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Romania</Data></Cell>
+			<Cell><Data ss:Type="Number">19237682</Data></Cell>
+			<Cell><Data ss:Type="Number">1055265</Data></Cell>
+			<Cell><Data ss:Type="Number">5.485406193947899</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Peru</Data></Cell>
+			<Cell><Data ss:Type="Number">32971846</Data></Cell>
+			<Cell><Data ss:Type="Number">1799445</Data></Cell>
+			<Cell><Data ss:Type="Number">5.457519727588197</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Kosovo</Data></Cell>
+			<Cell><Data ss:Type="Number">1932774</Data></Cell>
+			<Cell><Data ss:Type="Number">103638</Data></Cell>
+			<Cell><Data ss:Type="Number">5.362137528754009</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">United Arab Emirates</Data></Cell>
+			<Cell><Data ss:Type="Number">9890400</Data></Cell>
+			<Cell><Data ss:Type="Number">520236</Data></Cell>
+			<Cell><Data ss:Type="Number">5.260009706381946</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ireland</Data></Cell>
+			<Cell><Data ss:Type="Number">4937796</Data></Cell>
+			<Cell><Data ss:Type="Number">248870</Data></Cell>
+			<Cell><Data ss:Type="Number">5.040102912311484</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Costa Rica</Data></Cell>
+			<Cell><Data ss:Type="Number">5094114</Data></Cell>
+			<Cell><Data ss:Type="Number">250991</Data></Cell>
+			<Cell><Data ss:Type="Number">4.927078585206377</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ukraine</Data></Cell>
+			<Cell><Data ss:Type="Number">43733759</Data></Cell>
+			<Cell><Data ss:Type="Number">2124070</Data></Cell>
+			<Cell><Data ss:Type="Number">4.856820105493333</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Albania</Data></Cell>
+			<Cell><Data ss:Type="Number">2877800</Data></Cell>
+			<Cell><Data ss:Type="Number">131085</Data></Cell>
+			<Cell><Data ss:Type="Number">4.555042046007367</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Denmark</Data></Cell>
+			<Cell><Data ss:Type="Number">5792203</Data></Cell>
+			<Cell><Data ss:Type="Number">251249</Data></Cell>
+			<Cell><Data ss:Type="Number">4.33771053949594</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cape Verde</Data></Cell>
+			<Cell><Data ss:Type="Number">555988</Data></Cell>
+			<Cell><Data ss:Type="Number">23882</Data></Cell>
+			<Cell><Data ss:Type="Number">4.295416447837003</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">83783945</Data></Cell>
+			<Cell><Data ss:Type="Number">3405365</Data></Cell>
+			<Cell><Data ss:Type="Number">4.064460082417938</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Paraguay</Data></Cell>
+			<Cell><Data ss:Type="Number">7132530</Data></Cell>
+			<Cell><Data ss:Type="Number">279077</Data></Cell>
+			<Cell><Data ss:Type="Number">3.912735032309713</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Belarus</Data></Cell>
+			<Cell><Data ss:Type="Number">9449321</Data></Cell>
+			<Cell><Data ss:Type="Number">358738</Data></Cell>
+			<Cell><Data ss:Type="Number">3.7964420935641834</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Oman</Data></Cell>
+			<Cell><Data ss:Type="Number">5106622</Data></Cell>
+			<Cell><Data ss:Type="Number">193253</Data></Cell>
+			<Cell><Data ss:Type="Number">3.7843607770459613</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Vatican</Data></Cell>
+			<Cell><Data ss:Type="Number">809</Data></Cell>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="Number">3.3374536464771323</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Greece</Data></Cell>
+			<Cell><Data ss:Type="Number">10423056</Data></Cell>
+			<Cell><Data ss:Type="Number">345033</Data></Cell>
+			<Cell><Data ss:Type="Number">3.3102863497999047</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Russia</Data></Cell>
+			<Cell><Data ss:Type="Number">145934460</Data></Cell>
+			<Cell><Data ss:Type="Number">4750755</Data></Cell>
+			<Cell><Data ss:Type="Number">3.2554031446719303</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">37742157</Data></Cell>
+			<Cell><Data ss:Type="Number">1228367</Data></Cell>
+			<Cell><Data ss:Type="Number">3.254628504671845</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Belize</Data></Cell>
+			<Cell><Data ss:Type="Number">397621</Data></Cell>
+			<Cell><Data ss:Type="Number">12668</Data></Cell>
+			<Cell><Data ss:Type="Number">3.1859484282771784</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Azerbaijan</Data></Cell>
+			<Cell><Data ss:Type="Number">10139175</Data></Cell>
+			<Cell><Data ss:Type="Number">319109</Data></Cell>
+			<Cell><Data ss:Type="Number">3.1472876244862134</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Iran</Data></Cell>
+			<Cell><Data ss:Type="Number">83992953</Data></Cell>
+			<Cell><Data ss:Type="Number">2499077</Data></Cell>
+			<Cell><Data ss:Type="Number">2.9753412765473315</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">South Africa</Data></Cell>
+			<Cell><Data ss:Type="Number">59308690</Data></Cell>
+			<Cell><Data ss:Type="Number">1581210</Data></Cell>
+			<Cell><Data ss:Type="Number">2.6660679910481924</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Bahamas</Data></Cell>
+			<Cell><Data ss:Type="Number">393248</Data></Cell>
+			<Cell><Data ss:Type="Number">10453</Data></Cell>
+			<Cell><Data ss:Type="Number">2.6581190495565137</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Iraq</Data></Cell>
+			<Cell><Data ss:Type="Number">40222503</Data></Cell>
+			<Cell><Data ss:Type="Number">1065199</Data></Cell>
+			<Cell><Data ss:Type="Number">2.648266319975164</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Tunisia</Data></Cell>
+			<Cell><Data ss:Type="Number">11818618</Data></Cell>
+			<Cell><Data ss:Type="Number">309119</Data></Cell>
+			<Cell><Data ss:Type="Number">2.6155257746717933</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Bolivia</Data></Cell>
+			<Cell><Data ss:Type="Number">11673029</Data></Cell>
+			<Cell><Data ss:Type="Number">303732</Data></Cell>
+			<Cell><Data ss:Type="Number">2.601998161745336</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Libya</Data></Cell>
+			<Cell><Data ss:Type="Number">6871287</Data></Cell>
+			<Cell><Data ss:Type="Number">177508</Data></Cell>
+			<Cell><Data ss:Type="Number">2.583329731388021</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Saint Lucia</Data></Cell>
+			<Cell><Data ss:Type="Number">183629</Data></Cell>
+			<Cell><Data ss:Type="Number">4552</Data></Cell>
+			<Cell><Data ss:Type="Number">2.4789112830762026</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dominican Republic</Data></Cell>
+			<Cell><Data ss:Type="Number">10847904</Data></Cell>
+			<Cell><Data ss:Type="Number">266561</Data></Cell>
+			<Cell><Data ss:Type="Number">2.457258102579079</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ecuador</Data></Cell>
+			<Cell><Data ss:Type="Number">17643060</Data></Cell>
+			<Cell><Data ss:Type="Number">381862</Data></Cell>
+			<Cell><Data ss:Type="Number">2.1643751140675143</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Honduras</Data></Cell>
+			<Cell><Data ss:Type="Number">9904608</Data></Cell>
+			<Cell><Data ss:Type="Number">212333</Data></Cell>
+			<Cell><Data ss:Type="Number">2.1437799456576174</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Norway</Data></Cell>
+			<Cell><Data ss:Type="Number">5421242</Data></Cell>
+			<Cell><Data ss:Type="Number">112970</Data></Cell>
+			<Cell><Data ss:Type="Number">2.0838398285854054</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Kazakhstan</Data></Cell>
+			<Cell><Data ss:Type="Number">18776707</Data></Cell>
+			<Cell><Data ss:Type="Number">375539</Data></Cell>
+			<Cell><Data ss:Type="Number">2.0000258831327558</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Botswana</Data></Cell>
+			<Cell><Data ss:Type="Number">2351625</Data></Cell>
+			<Cell><Data ss:Type="Number">46934</Data></Cell>
+			<Cell><Data ss:Type="Number">1.9958114070057937</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">World</Data></Cell>
+			<Cell><Data ss:Type="Number">7794798729</Data></Cell>
+			<Cell><Data ss:Type="Number">151399480</Data></Cell>
+			<Cell><Data ss:Type="Number">1.9423141669678896</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Namibia</Data></Cell>
+			<Cell><Data ss:Type="Number">2540916</Data></Cell>
+			<Cell><Data ss:Type="Number">48351</Data></Cell>
+			<Cell><Data ss:Type="Number">1.9028964357735556</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Iceland</Data></Cell>
+			<Cell><Data ss:Type="Number">341250</Data></Cell>
+			<Cell><Data ss:Type="Number">6472</Data></Cell>
+			<Cell><Data ss:Type="Number">1.8965567765567766</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mexico</Data></Cell>
+			<Cell><Data ss:Type="Number">128932753</Data></Cell>
+			<Cell><Data ss:Type="Number">2344755</Data></Cell>
+			<Cell><Data ss:Type="Number">1.8185875547076853</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Suriname</Data></Cell>
+			<Cell><Data ss:Type="Number">586634</Data></Cell>
+			<Cell><Data ss:Type="Number">10363</Data></Cell>
+			<Cell><Data ss:Type="Number">1.7665188175250666</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Guyana</Data></Cell>
+			<Cell><Data ss:Type="Number">786559</Data></Cell>
+			<Cell><Data ss:Type="Number">13283</Data></Cell>
+			<Cell><Data ss:Type="Number">1.688748078656528</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Saint Vincent and the Grenadines</Data></Cell>
+			<Cell><Data ss:Type="Number">110947</Data></Cell>
+			<Cell><Data ss:Type="Number">1864</Data></Cell>
+			<Cell><Data ss:Type="Number">1.6800814803464719</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Eswatini</Data></Cell>
+			<Cell><Data ss:Type="Number">1160164</Data></Cell>
+			<Cell><Data ss:Type="Number">18458</Data></Cell>
+			<Cell><Data ss:Type="Number">1.5909819646187953</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Finland</Data></Cell>
+			<Cell><Data ss:Type="Number">5540718</Data></Cell>
+			<Cell><Data ss:Type="Number">86808</Data></Cell>
+			<Cell><Data ss:Type="Number">1.5667283554225284</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jamaica</Data></Cell>
+			<Cell><Data ss:Type="Number">2961161</Data></Cell>
+			<Cell><Data ss:Type="Number">45578</Data></Cell>
+			<Cell><Data ss:Type="Number">1.5391935798154845</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Kyrgyzstan</Data></Cell>
+			<Cell><Data ss:Type="Number">6524191</Data></Cell>
+			<Cell><Data ss:Type="Number">95275</Data></Cell>
+			<Cell><Data ss:Type="Number">1.460334315779535</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">India</Data></Cell>
+			<Cell><Data ss:Type="Number">1380004385</Data></Cell>
+			<Cell><Data ss:Type="Number">19164969</Data></Cell>
+			<Cell><Data ss:Type="Number">1.3887614567253712</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Morocco</Data></Cell>
+			<Cell><Data ss:Type="Number">36910558</Data></Cell>
+			<Cell><Data ss:Type="Number">511249</Data></Cell>
+			<Cell><Data ss:Type="Number">1.3851023330506138</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Barbados</Data></Cell>
+			<Cell><Data ss:Type="Number">287371</Data></Cell>
+			<Cell><Data ss:Type="Number">3855</Data></Cell>
+			<Cell><Data ss:Type="Number">1.3414714776369223</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Guatemala</Data></Cell>
+			<Cell><Data ss:Type="Number">17915567</Data></Cell>
+			<Cell><Data ss:Type="Number">227671</Data></Cell>
+			<Cell><Data ss:Type="Number">1.2707998580229138</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Malaysia</Data></Cell>
+			<Cell><Data ss:Type="Number">32365998</Data></Cell>
+			<Cell><Data ss:Type="Number">408713</Data></Cell>
+			<Cell><Data ss:Type="Number">1.2627850993502503</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Antigua and Barbuda</Data></Cell>
+			<Cell><Data ss:Type="Number">97928</Data></Cell>
+			<Cell><Data ss:Type="Number">1232</Data></Cell>
+			<Cell><Data ss:Type="Number">1.2580671513765216</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Saudi Arabia</Data></Cell>
+			<Cell><Data ss:Type="Number">34813867</Data></Cell>
+			<Cell><Data ss:Type="Number">417363</Data></Cell>
+			<Cell><Data ss:Type="Number">1.1988412548367582</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mongolia</Data></Cell>
+			<Cell><Data ss:Type="Number">3278292</Data></Cell>
+			<Cell><Data ss:Type="Number">37285</Data></Cell>
+			<Cell><Data ss:Type="Number">1.1373300486960893</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Djibouti</Data></Cell>
+			<Cell><Data ss:Type="Number">988002</Data></Cell>
+			<Cell><Data ss:Type="Number">11100</Data></Cell>
+			<Cell><Data ss:Type="Number">1.1234795071265038</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Nepal</Data></Cell>
+			<Cell><Data ss:Type="Number">29136808</Data></Cell>
+			<Cell><Data ss:Type="Number">323187</Data></Cell>
+			<Cell><Data ss:Type="Number">1.1092052362084412</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">El Salvador</Data></Cell>
+			<Cell><Data ss:Type="Number">6486201</Data></Cell>
+			<Cell><Data ss:Type="Number">69198</Data></Cell>
+			<Cell><Data ss:Type="Number">1.0668494547116256</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sao Tome and Principe</Data></Cell>
+			<Cell><Data ss:Type="Number">219161</Data></Cell>
+			<Cell><Data ss:Type="Number">2302</Data></Cell>
+			<Cell><Data ss:Type="Number">1.0503693631622413</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Singapore</Data></Cell>
+			<Cell><Data ss:Type="Number">5850343</Data></Cell>
+			<Cell><Data ss:Type="Number">61145</Data></Cell>
+			<Cell><Data ss:Type="Number">1.045152395338188</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Gabon</Data></Cell>
+			<Cell><Data ss:Type="Number">2225728</Data></Cell>
+			<Cell><Data ss:Type="Number">23075</Data></Cell>
+			<Cell><Data ss:Type="Number">1.0367394398596774</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Philippines</Data></Cell>
+			<Cell><Data ss:Type="Number">109581085</Data></Cell>
+			<Cell><Data ss:Type="Number">1037460</Data></Cell>
+			<Cell><Data ss:Type="Number">0.946750983529685</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cuba</Data></Cell>
+			<Cell><Data ss:Type="Number">11326616</Data></Cell>
+			<Cell><Data ss:Type="Number">106707</Data></Cell>
+			<Cell><Data ss:Type="Number">0.9420907356619135</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Asia</Data></Cell>
+			<Cell><Data ss:Type="Number">4639847425</Data></Cell>
+			<Cell><Data ss:Type="Number">39526308</Data></Cell>
+			<Cell><Data ss:Type="Number">0.8518880984540133</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Trinidad and Tobago</Data></Cell>
+			<Cell><Data ss:Type="Number">1399491</Data></Cell>
+			<Cell><Data ss:Type="Number">10824</Data></Cell>
+			<Cell><Data ss:Type="Number">0.7734240520303453</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Venezuela</Data></Cell>
+			<Cell><Data ss:Type="Number">28435943</Data></Cell>
+			<Cell><Data ss:Type="Number">197683</Data></Cell>
+			<Cell><Data ss:Type="Number">0.6951870736272048</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Indonesia</Data></Cell>
+			<Cell><Data ss:Type="Number">273523621</Data></Cell>
+			<Cell><Data ss:Type="Number">1668368</Data></Cell>
+			<Cell><Data ss:Type="Number">0.6099539022993556</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Equatorial Guinea</Data></Cell>
+			<Cell><Data ss:Type="Number">1402985</Data></Cell>
+			<Cell><Data ss:Type="Number">7694</Data></Cell>
+			<Cell><Data ss:Type="Number">0.5484021568299019</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sri Lanka</Data></Cell>
+			<Cell><Data ss:Type="Number">21413250</Data></Cell>
+			<Cell><Data ss:Type="Number">108146</Data></Cell>
+			<Cell><Data ss:Type="Number">0.5050424386769874</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Lesotho</Data></Cell>
+			<Cell><Data ss:Type="Number">2142252</Data></Cell>
+			<Cell><Data ss:Type="Number">10731</Data></Cell>
+			<Cell><Data ss:Type="Number">0.5009214602203662</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Zambia</Data></Cell>
+			<Cell><Data ss:Type="Number">18383956</Data></Cell>
+			<Cell><Data ss:Type="Number">91586</Data></Cell>
+			<Cell><Data ss:Type="Number">0.49818439513236434</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Japan</Data></Cell>
+			<Cell><Data ss:Type="Number">126476458</Data></Cell>
+			<Cell><Data ss:Type="Number">593264</Data></Cell>
+			<Cell><Data ss:Type="Number">0.46907069456356854</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Bangladesh</Data></Cell>
+			<Cell><Data ss:Type="Number">164689383</Data></Cell>
+			<Cell><Data ss:Type="Number">759132</Data></Cell>
+			<Cell><Data ss:Type="Number">0.46094774670447336</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Comoros</Data></Cell>
+			<Cell><Data ss:Type="Number">869595</Data></Cell>
+			<Cell><Data ss:Type="Number">3834</Data></Cell>
+			<Cell><Data ss:Type="Number">0.4408948993496972</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mauritania</Data></Cell>
+			<Cell><Data ss:Type="Number">4649660</Data></Cell>
+			<Cell><Data ss:Type="Number">18402</Data></Cell>
+			<Cell><Data ss:Type="Number">0.3957708735692502</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Pakistan</Data></Cell>
+			<Cell><Data ss:Type="Number">220892331</Data></Cell>
+			<Cell><Data ss:Type="Number">825519</Data></Cell>
+			<Cell><Data ss:Type="Number">0.37372008175331356</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Africa</Data></Cell>
+			<Cell><Data ss:Type="Number">1340598113</Data></Cell>
+			<Cell><Data ss:Type="Number">4557699</Data></Cell>
+			<Cell><Data ss:Type="Number">0.33997504216985275</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ghana</Data></Cell>
+			<Cell><Data ss:Type="Number">31072945</Data></Cell>
+			<Cell><Data ss:Type="Number">92562</Data></Cell>
+			<Cell><Data ss:Type="Number">0.2978861514413906</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Kenya</Data></Cell>
+			<Cell><Data ss:Type="Number">53771300</Data></Cell>
+			<Cell><Data ss:Type="Number">159318</Data></Cell>
+			<Cell><Data ss:Type="Number">0.2962881685955147</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Algeria</Data></Cell>
+			<Cell><Data ss:Type="Number">43851043</Data></Cell>
+			<Cell><Data ss:Type="Number">122108</Data></Cell>
+			<Cell><Data ss:Type="Number">0.2784608794823877</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cameroon</Data></Cell>
+			<Cell><Data ss:Type="Number">26545864</Data></Cell>
+			<Cell><Data ss:Type="Number">72250</Data></Cell>
+			<Cell><Data ss:Type="Number">0.2721704593981194</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Uzbekistan</Data></Cell>
+			<Cell><Data ss:Type="Number">33469199</Data></Cell>
+			<Cell><Data ss:Type="Number">90808</Data></Cell>
+			<Cell><Data ss:Type="Number">0.2713181155007624</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Myanmar</Data></Cell>
+			<Cell><Data ss:Type="Number">54409794</Data></Cell>
+			<Cell><Data ss:Type="Number">142817</Data></Cell>
+			<Cell><Data ss:Type="Number">0.2624839932310716</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Zimbabwe</Data></Cell>
+			<Cell><Data ss:Type="Number">14862927</Data></Cell>
+			<Cell><Data ss:Type="Number">38257</Data></Cell>
+			<Cell><Data ss:Type="Number">0.2573988286425682</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Gambia</Data></Cell>
+			<Cell><Data ss:Type="Number">2416664</Data></Cell>
+			<Cell><Data ss:Type="Number">5898</Data></Cell>
+			<Cell><Data ss:Type="Number">0.2440554417163495</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Dominica</Data></Cell>
+			<Cell><Data ss:Type="Number">71991</Data></Cell>
+			<Cell><Data ss:Type="Number">174</Data></Cell>
+			<Cell><Data ss:Type="Number">0.24169687877651372</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Senegal</Data></Cell>
+			<Cell><Data ss:Type="Number">16743930</Data></Cell>
+			<Cell><Data ss:Type="Number">40344</Data></Cell>
+			<Cell><Data ss:Type="Number">0.24094701781481406</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">South Korea</Data></Cell>
+			<Cell><Data ss:Type="Number">51269183</Data></Cell>
+			<Cell><Data ss:Type="Number">122634</Data></Cell>
+			<Cell><Data ss:Type="Number">0.2391963218918468</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ethiopia</Data></Cell>
+			<Cell><Data ss:Type="Number">114963583</Data></Cell>
+			<Cell><Data ss:Type="Number">257442</Data></Cell>
+			<Cell><Data ss:Type="Number">0.22393352162658328</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mozambique</Data></Cell>
+			<Cell><Data ss:Type="Number">31255435</Data></Cell>
+			<Cell><Data ss:Type="Number">69917</Data></Cell>
+			<Cell><Data ss:Type="Number">0.22369549487953055</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Egypt</Data></Cell>
+			<Cell><Data ss:Type="Number">102334403</Data></Cell>
+			<Cell><Data ss:Type="Number">227552</Data></Cell>
+			<Cell><Data ss:Type="Number">0.22236119362517803</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Rwanda</Data></Cell>
+			<Cell><Data ss:Type="Number">12952209</Data></Cell>
+			<Cell><Data ss:Type="Number">25116</Data></Cell>
+			<Cell><Data ss:Type="Number">0.19391286845355876</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Congo</Data></Cell>
+			<Cell><Data ss:Type="Number">5518092</Data></Cell>
+			<Cell><Data ss:Type="Number">10678</Data></Cell>
+			<Cell><Data ss:Type="Number">0.19350891576291224</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Guinea-Bissau</Data></Cell>
+			<Cell><Data ss:Type="Number">1967998</Data></Cell>
+			<Cell><Data ss:Type="Number">3734</Data></Cell>
+			<Cell><Data ss:Type="Number">0.1897359651788264</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Malawi</Data></Cell>
+			<Cell><Data ss:Type="Number">19129955</Data></Cell>
+			<Cell><Data ss:Type="Number">34078</Data></Cell>
+			<Cell><Data ss:Type="Number">0.17813946765687635</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cote d'Ivoire</Data></Cell>
+			<Cell><Data ss:Type="Number">26378275</Data></Cell>
+			<Cell><Data ss:Type="Number">46036</Data></Cell>
+			<Cell><Data ss:Type="Number">0.17452240527479526</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Timor</Data></Cell>
+			<Cell><Data ss:Type="Number">1318442</Data></Cell>
+			<Cell><Data ss:Type="Number">2276</Data></Cell>
+			<Cell><Data ss:Type="Number">0.1726279957707658</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Guinea</Data></Cell>
+			<Cell><Data ss:Type="Number">13132792</Data></Cell>
+			<Cell><Data ss:Type="Number">22215</Data></Cell>
+			<Cell><Data ss:Type="Number">0.16915671854088604</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Togo</Data></Cell>
+			<Cell><Data ss:Type="Number">8278737</Data></Cell>
+			<Cell><Data ss:Type="Number">12967</Data></Cell>
+			<Cell><Data ss:Type="Number">0.1566301719694683</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Afghanistan</Data></Cell>
+			<Cell><Data ss:Type="Number">38928341</Data></Cell>
+			<Cell><Data ss:Type="Number">59745</Data></Cell>
+			<Cell><Data ss:Type="Number">0.15347430295064463</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Grenada</Data></Cell>
+			<Cell><Data ss:Type="Number">112519</Data></Cell>
+			<Cell><Data ss:Type="Number">160</Data></Cell>
+			<Cell><Data ss:Type="Number">0.1421982065251202</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Tajikistan</Data></Cell>
+			<Cell><Data ss:Type="Number">9537642</Data></Cell>
+			<Cell><Data ss:Type="Number">13308</Data></Cell>
+			<Cell><Data ss:Type="Number">0.13953134328170422</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Bhutan</Data></Cell>
+			<Cell><Data ss:Type="Number">771612</Data></Cell>
+			<Cell><Data ss:Type="Number">1074</Data></Cell>
+			<Cell><Data ss:Type="Number">0.13918912614111756</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Madagascar</Data></Cell>
+			<Cell><Data ss:Type="Number">27691019</Data></Cell>
+			<Cell><Data ss:Type="Number">37014</Data></Cell>
+			<Cell><Data ss:Type="Number">0.13366788705031044</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Central African Republic</Data></Cell>
+			<Cell><Data ss:Type="Number">4829764</Data></Cell>
+			<Cell><Data ss:Type="Number">6411</Data></Cell>
+			<Cell><Data ss:Type="Number">0.13273940507238033</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Syria</Data></Cell>
+			<Cell><Data ss:Type="Number">17500657</Data></Cell>
+			<Cell><Data ss:Type="Number">22733</Data></Cell>
+			<Cell><Data ss:Type="Number">0.12989798040153577</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Papua New Guinea</Data></Cell>
+			<Cell><Data ss:Type="Number">8947027</Data></Cell>
+			<Cell><Data ss:Type="Number">10997</Data></Cell>
+			<Cell><Data ss:Type="Number">0.12291233724901021</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Australia</Data></Cell>
+			<Cell><Data ss:Type="Number">25499881</Data></Cell>
+			<Cell><Data ss:Type="Number">29811</Data></Cell>
+			<Cell><Data ss:Type="Number">0.11690642791627144</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Haiti</Data></Cell>
+			<Cell><Data ss:Type="Number">11402533</Data></Cell>
+			<Cell><Data ss:Type="Number">13056</Data></Cell>
+			<Cell><Data ss:Type="Number">0.11450087449867499</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Nicaragua</Data></Cell>
+			<Cell><Data ss:Type="Number">6624554</Data></Cell>
+			<Cell><Data ss:Type="Number">6898</Data></Cell>
+			<Cell><Data ss:Type="Number">0.10412776467668616</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Eritrea</Data></Cell>
+			<Cell><Data ss:Type="Number">3546427</Data></Cell>
+			<Cell><Data ss:Type="Number">3671</Data></Cell>
+			<Cell><Data ss:Type="Number">0.10351263398344304</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Oceania</Data></Cell>
+			<Cell><Data ss:Type="Number">42677809</Data></Cell>
+			<Cell><Data ss:Type="Number">43570</Data></Cell>
+			<Cell><Data ss:Type="Number">0.10209052671846391</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mauritius</Data></Cell>
+			<Cell><Data ss:Type="Number">1271767</Data></Cell>
+			<Cell><Data ss:Type="Number">1209</Data></Cell>
+			<Cell><Data ss:Type="Number">0.09506458337101056</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">South Sudan</Data></Cell>
+			<Cell><Data ss:Type="Number">11193729</Data></Cell>
+			<Cell><Data ss:Type="Number">10583</Data></Cell>
+			<Cell><Data ss:Type="Number">0.09454400763141577</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Thailand</Data></Cell>
+			<Cell><Data ss:Type="Number">69799978</Data></Cell>
+			<Cell><Data ss:Type="Number">65153</Data></Cell>
+			<Cell><Data ss:Type="Number">0.09334243629704296</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Uganda</Data></Cell>
+			<Cell><Data ss:Type="Number">45741000</Data></Cell>
+			<Cell><Data ss:Type="Number">41866</Data></Cell>
+			<Cell><Data ss:Type="Number">0.09152838809820511</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Somalia</Data></Cell>
+			<Cell><Data ss:Type="Number">15893219</Data></Cell>
+			<Cell><Data ss:Type="Number">13915</Data></Cell>
+			<Cell><Data ss:Type="Number">0.08755306272442354</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Saint Kitts and Nevis</Data></Cell>
+			<Cell><Data ss:Type="Number">53192</Data></Cell>
+			<Cell><Data ss:Type="Number">44</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0827192058956234</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Angola</Data></Cell>
+			<Cell><Data ss:Type="Number">32866268</Data></Cell>
+			<Cell><Data ss:Type="Number">26652</Data></Cell>
+			<Cell><Data ss:Type="Number">0.08109226152479497</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cambodia</Data></Cell>
+			<Cell><Data ss:Type="Number">16718971</Data></Cell>
+			<Cell><Data ss:Type="Number">13402</Data></Cell>
+			<Cell><Data ss:Type="Number">0.08016043571102552</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Nigeria</Data></Cell>
+			<Cell><Data ss:Type="Number">206139587</Data></Cell>
+			<Cell><Data ss:Type="Number">165110</Data></Cell>
+			<Cell><Data ss:Type="Number">0.08009621169950243</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sudan</Data></Cell>
+			<Cell><Data ss:Type="Number">43849269</Data></Cell>
+			<Cell><Data ss:Type="Number">33944</Data></Cell>
+			<Cell><Data ss:Type="Number">0.07741064052857985</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mali</Data></Cell>
+			<Cell><Data ss:Type="Number">20250834</Data></Cell>
+			<Cell><Data ss:Type="Number">13858</Data></Cell>
+			<Cell><Data ss:Type="Number">0.06843174952695776</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Benin</Data></Cell>
+			<Cell><Data ss:Type="Number">12123198</Data></Cell>
+			<Cell><Data ss:Type="Number">7821</Data></Cell>
+			<Cell><Data ss:Type="Number">0.06451268056497964</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Burkina Faso</Data></Cell>
+			<Cell><Data ss:Type="Number">20903278</Data></Cell>
+			<Cell><Data ss:Type="Number">13310</Data></Cell>
+			<Cell><Data ss:Type="Number">0.06367422372701545</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">New Zealand</Data></Cell>
+			<Cell><Data ss:Type="Number">4822233</Data></Cell>
+			<Cell><Data ss:Type="Number">2613</Data></Cell>
+			<Cell><Data ss:Type="Number">0.05418651483659127</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brunei</Data></Cell>
+			<Cell><Data ss:Type="Number">437483</Data></Cell>
+			<Cell><Data ss:Type="Number">224</Data></Cell>
+			<Cell><Data ss:Type="Number">0.05120198956302302</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sierra Leone</Data></Cell>
+			<Cell><Data ss:Type="Number">7976985</Data></Cell>
+			<Cell><Data ss:Type="Number">4054</Data></Cell>
+			<Cell><Data ss:Type="Number">0.05082120625775278</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Liberia</Data></Cell>
+			<Cell><Data ss:Type="Number">5057677</Data></Cell>
+			<Cell><Data ss:Type="Number">2099</Data></Cell>
+			<Cell><Data ss:Type="Number">0.04150126629280596</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Burundi</Data></Cell>
+			<Cell><Data ss:Type="Number">11890781</Data></Cell>
+			<Cell><Data ss:Type="Number">3995</Data></Cell>
+			<Cell><Data ss:Type="Number">0.033597456718780706</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Democratic Republic of Congo</Data></Cell>
+			<Cell><Data ss:Type="Number">89561404</Data></Cell>
+			<Cell><Data ss:Type="Number">29853</Data></Cell>
+			<Cell><Data ss:Type="Number">0.03333243860268202</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Chad</Data></Cell>
+			<Cell><Data ss:Type="Number">16425859</Data></Cell>
+			<Cell><Data ss:Type="Number">4817</Data></Cell>
+			<Cell><Data ss:Type="Number">0.029325711367667283</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Niger</Data></Cell>
+			<Cell><Data ss:Type="Number">24206636</Data></Cell>
+			<Cell><Data ss:Type="Number">5228</Data></Cell>
+			<Cell><Data ss:Type="Number">0.02159738346129549</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Yemen</Data></Cell>
+			<Cell><Data ss:Type="Number">29825968</Data></Cell>
+			<Cell><Data ss:Type="Number">6317</Data></Cell>
+			<Cell><Data ss:Type="Number">0.021179530535270472</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Fiji</Data></Cell>
+			<Cell><Data ss:Type="Number">896444</Data></Cell>
+			<Cell><Data ss:Type="Number">117</Data></Cell>
+			<Cell><Data ss:Type="Number">0.013051568196117105</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Laos</Data></Cell>
+			<Cell><Data ss:Type="Number">7275556</Data></Cell>
+			<Cell><Data ss:Type="Number">757</Data></Cell>
+			<Cell><Data ss:Type="Number">0.01040470309073286</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">China</Data></Cell>
+			<Cell><Data ss:Type="Number">1439323774</Data></Cell>
+			<Cell><Data ss:Type="Number">102494</Data></Cell>
+			<Cell><Data ss:Type="Number">0.007120982912354784</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Marshall Islands</Data></Cell>
+			<Cell><Data ss:Type="Number">59194</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">0.006757441632597898</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Taiwan</Data></Cell>
+			<Cell><Data ss:Type="Number">23816775</Data></Cell>
+			<Cell><Data ss:Type="Number">1128</Data></Cell>
+			<Cell><Data ss:Type="Number">0.004736157603201945</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Vietnam</Data></Cell>
+			<Cell><Data ss:Type="Number">97338583</Data></Cell>
+			<Cell><Data ss:Type="Number">2928</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0030080569387372323</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Solomon Islands</Data></Cell>
+			<Cell><Data ss:Type="Number">686878</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">0.002911725226313843</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Samoa</Data></Cell>
+			<Cell><Data ss:Type="Number">198410</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0015120205634796633</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Vanuatu</Data></Cell>
+			<Cell><Data ss:Type="Number">307150</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">0.001302295295458245</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Micronesia (country)</Data></Cell>
+			<Cell><Data ss:Type="Number">115021</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0008694064562123438</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Tanzania</Data></Cell>
+			<Cell><Data ss:Type="Number">59734213</Data></Cell>
+			<Cell><Data ss:Type="Number">509</Data></Cell>
+			<Cell><Data ss:Type="Number">0.000852107987092757</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Anguilla</Data></Cell>
+			<Cell><Data ss:Type="Number">15002</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Aruba</Data></Cell>
+			<Cell><Data ss:Type="Number">106766</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Bermuda</Data></Cell>
+			<Cell><Data ss:Type="Number">62273</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Cayman Islands</Data></Cell>
+			<Cell><Data ss:Type="Number">65720</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Curacao</Data></Cell>
+			<Cell><Data ss:Type="Number">164100</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Faeroe Islands</Data></Cell>
+			<Cell><Data ss:Type="Number">48865</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Falkland Islands</Data></Cell>
+			<Cell><Data ss:Type="Number">3483</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Gibraltar</Data></Cell>
+			<Cell><Data ss:Type="Number">33691</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Greenland</Data></Cell>
+			<Cell><Data ss:Type="Number">56772</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Guernsey</Data></Cell>
+			<Cell><Data ss:Type="Number">67052</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Hong Kong</Data></Cell>
+			<Cell><Data ss:Type="Number">7496988</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Isle of Man</Data></Cell>
+			<Cell><Data ss:Type="Number">85032</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jersey</Data></Cell>
+			<Cell><Data ss:Type="Number">101073</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Macao</Data></Cell>
+			<Cell><Data ss:Type="Number">649342</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Montserrat</Data></Cell>
+			<Cell><Data ss:Type="Number">4999</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Nauru</Data></Cell>
+			<Cell><Data ss:Type="Number">10834</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Saint Helena</Data></Cell>
+			<Cell><Data ss:Type="Number">6071</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Tonga</Data></Cell>
+			<Cell><Data ss:Type="Number">105697</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Turks and Caicos Islands</Data></Cell>
+			<Cell><Data ss:Type="Number">38718</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">International</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">721</Data></Cell>
+			<Cell><Data ss:Type="Number"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Northern Cyprus</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number"></Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

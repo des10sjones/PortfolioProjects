@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">location</Data></Cell>
+			<Cell><Data ss:Type="String">TotalDeathCount</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Europe</Data></Cell>
+			<Cell><Data ss:Type="Number">1016750</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">North America</Data></Cell>
+			<Cell><Data ss:Type="Number">847942</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">South America</Data></Cell>
+			<Cell><Data ss:Type="Number">672415</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Asia</Data></Cell>
+			<Cell><Data ss:Type="Number">520269</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Africa</Data></Cell>
+			<Cell><Data ss:Type="Number">121784</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Oceania</Data></Cell>
+			<Cell><Data ss:Type="Number">1046</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
